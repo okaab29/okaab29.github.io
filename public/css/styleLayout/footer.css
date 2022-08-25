@@ -1,0 +1,42 @@
+.border-footer{
+    border-color: #6bf01e;
+}
+
+.garis{
+    border: solid #47b2f0;
+}
+
+.footer-section{
+    background-color: #235789;
+    margin: 0;
+}
+
+.garis-footer{
+    width: 200px;
+    border-top: solid #A50000;
+}
+
+.img-footer{
+    width: 120px;
+}
+
+.garis-akhir{
+    border: solid #A50000;
+    max-width: 100%;
+}
+
+#cp-footer{
+    background-color: #235789;
+}
+
+@media (min-width: 1349px) {
+    .penutup{
+        height: 95px;
+    }
+}
+
+@media (max-width: 960.00px) {
+    .penutup{
+        height: 190px;
+    }
+}

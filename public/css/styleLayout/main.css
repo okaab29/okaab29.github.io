@@ -1,0 +1,99 @@
+body{
+    background-color: #FBFBFF;
+}
+
+.font-poppins{
+    font-family: poppins;
+    font-size: 15px;
+}
+
+.contain-nav{
+    background-color: #235789;
+}
+
+.input-form{
+    width: 180px;
+}
+
+.form-search{
+    justify-content: right;
+}
+
+.menu-drop{
+    background-color: #235789;
+}
+
+.text-pilihan{
+    color: white; 
+}
+
+.menu-layanan{
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:hover{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:active{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:visited{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.pilihan-drop:hover{
+    background-color: #B80C09;
+}
+
+.border-footer{
+    border-color: #6bf01e;
+}
+
+.garis{
+    border: solid #47b2f0;
+}
+
+.footer-section{
+    background-color: #235789;
+}
+
+.garis-footer{
+    width: 200px;
+    border-top: solid #A50000;
+}
+
+.img-footer{
+    width: 120px;
+}
+
+.garis-akhir{
+    border: solid #A50000;
+    width: 1352px;
+    margin-left: -15px;
+}
+
+#cp-footer{
+    background-color: #235789;
+}
+
+
+@media (min-width: 1349px) {
+    .penutup{
+        height: 95px;
+    }
+}
+
+@media (max-width: 960.00px) {
+    .penutup{
+        height: 190px;
+    }
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: #fbfbff;
+    font-family: poppins;
+}
+
+.cont-login{
+    max-width: 1129px;
+    background-color: #CAF0F8;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.mshProfile{
+    margin-left: -14px;
+}
+
+.text-login{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.btn-login{
+    text-align: center;
+}
+
+.tombol-login{
+    background-color: #A50000;
+    color: white;
+}
+
+@media (min-width: 1349px) {
+    
+}
+
+
+@media (max-width: 960.00px) {
+    
+}

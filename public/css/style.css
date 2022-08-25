@@ -1,0 +1,184 @@
+body{
+    background-color: #FBFBFF;
+}
+
+.font-poppins{
+    font-family: poppins;
+    font-size: 15px;
+}
+
+
+.contain-nav{
+    background-color: #235789;
+}
+
+.input-form{
+    width: 180px;
+}
+
+.form-search{
+    justify-content: right;
+}
+
+.menu-drop{
+    background-color: #235789;
+}
+
+.text-pilihan{
+    color: white;
+    font-family: poppins;
+}
+
+.menu-beranda{
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:hover{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:active{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:visited{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.pilihan-drop{
+    font-family: poppins;
+}
+
+.pilihan-drop:hover{
+    background-color: #B80C09;
+}
+
+.carousel-contain{
+    background-color: #FBFBFF;
+}
+
+.judul{
+    font-family: poppins;
+}
+
+
+#img-profile{
+    width: 1110px;
+}
+
+.garis{
+    border: solid #B80C09;
+}
+
+#garis2{
+    border: solid #235789;
+    width: 700px;
+}
+
+#garis3{
+    border: solid #A50000;
+    width: 700px;
+}
+
+.border{
+    border: #B80C09;
+}
+
+#border-keterangan1{
+    margin-top: 35px;
+}
+
+#border-keterangan2{
+    margin-top: 50px;
+}
+
+#border-keterangan3{
+    margin-top: 25px;
+}
+
+#border-keterangan4{
+    margin-top: 40px;
+}
+
+.border-keterangan{
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.col-layanan{
+    text-align: center;
+}
+
+.desk-layanan{
+    font-size: 20px;
+}
+
+.card-data{
+    background-color: #449DD1;
+}
+
+.card-hasil1{
+    background-color: #00C9A0;
+}
+
+.card-hasil2{
+    background-color: #A50000;
+}
+
+.card-persentase{
+    background-color: #FECA26;
+}
+
+
+.grafik{
+    text-align: center;
+    height: 500px;
+    border-radius: 40px;
+}
+
+.garis{
+    border: solid #47b2f0;
+}
+
+.garis-merah{
+    border: solid #A50000;
+}
+
+
+@media (min-width: 1349px) {
+    .penutup{
+        height: 95px;
+    }
+    .responsive-layanan {
+      font-size: 30px;
+      margin-top: 40px;
+    }
+    .komponen-layanan{
+        height: 100px;
+        margin-top: 20px;
+    }
+}
+  /* If the screen size is smaller than 1200px, set the font-size to 80px */
+@media (max-width: 1150.98px) {
+    .responsive-layanan {
+      font-size: 20px;
+      margin-top: 30px;
+    }
+}
+
+@media (max-width: 960.00px) {
+    .penutup{
+        height: 190px;
+    }
+    .responsive-layanan {
+      font-size: 20px;
+      margin-top: 5px;
+    }
+}

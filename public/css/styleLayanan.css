@@ -1,0 +1,31 @@
+body{
+    background-color: #FBFBFF;
+}
+
+
+
+#judul-layanan{
+    margin-top: 30px;
+    font-size: 30px;
+    float: left;
+}
+
+.garis-judul{
+    width: 210px;
+}
+
+.text-layanan{
+    font-size: 25px;
+}
+
+.btn-upload{
+    background-color: #A50000;
+    color: white;
+    float: right;
+    height: 50px;
+    width: 150px;
+    margin-right: 15px;
+}
+
+
+

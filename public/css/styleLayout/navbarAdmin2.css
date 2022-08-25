@@ -1,0 +1,100 @@
+.font-poppins{
+    font-family: poppins;
+    font-size: 15px;
+}
+
+.body-layanan{
+    position: relative;
+}
+
+.contain-nav{
+    background-color: #235789;
+}
+
+.input-form{
+    width: 180px;
+}
+
+.form-search{
+    justify-content: right;
+}
+
+.menu-drop{
+    background-color: #235789;
+}
+
+.text-pilihan{
+    color: white; 
+}
+
+.menu-layanan{
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:hover{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:active{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.text-pilihan:visited{
+    color: white;
+    border-bottom: solid #B80C09;
+    font-weight: 500;
+}
+
+.pilihan-drop:hover{
+    background-color: #B80C09;
+}
+
+.profile{
+    float: right;
+    text-align: right;
+}
+
+.nama-profile{
+    color: white;
+}
+
+.bell{
+    width: 20px;
+}
+
+.img-bell{
+    width: 25px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+
+
+@media (min-width: 1349px) {
+    .penutup{
+        height: 95px;
+    }
+
+    .profile{
+        margin-left: 15px;
+        width: 100px;
+        margin-right: 10px;
+    }
+    
+}
+
+
+@media (max-width: 960.00px) {
+    .penutup{
+        height: 190px;
+    }
+
+    .profile{
+        margin-left: 5px;
+    }
+}
