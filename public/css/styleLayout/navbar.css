@@ -3,6 +3,8 @@
     font-size: 15px;
 }
 
+
+
 .body-layanan{
     position: relative;
 }
@@ -58,11 +60,19 @@
     .penutup{
         height: 95px;
     }
+
+    .logo-navbar-saber{
+        width: 195px;
+    }
 }
 
 
 @media (max-width: 960.00px) {
     .penutup{
         height: 190px;
+    }
+
+    .logo-navbar-saber{
+        width: 150px;
     }
 }

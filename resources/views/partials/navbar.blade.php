@@ -2,12 +2,12 @@
 
 <!-- Navbar -->
 <div class="container-fluid contain-nav fixed-top font-poppins">
-    <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-left py-3 mb-2">
-      <a href="/main" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
-        <img src="assets/image/logo-navbar.png" alt="">
+    <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-left py-0 mb-2">
+      <a href="/main" class="d-flex align-items-center col-md-3 mb-2 mb-md-2 text-dark text-decoration-none">
+        <img src="assets/image/logo-navbarbaru.png" class="img-fluid logo-navbar-saber" alt="">
       </a>
 
-      <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+      <ul class="nav col-12 col-md-auto mb-0 justify-content-center mb-md-0">
         <li><a href="main" class="nav-link px-2 text-pilihan {{ ($tittle === "Beranda") ? 'menu-layanan' : "" }}">Beranda</a></li>
         <li><a href="layanan" class="nav-link px-2 text-pilihan {{ ($tittle === "Layanan") ? 'menu-layanan' : "" }}">Layanan</a></li>
         <li><a href="berita" class="nav-link px-2 text-pilihan {{ ($tittle === "Berita") ? 'menu-layanan' : "" }}">Berita</a></li>
